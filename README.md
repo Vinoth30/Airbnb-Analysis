@@ -38,7 +38,7 @@ holistic view of the Airbnb dataset and its patterns.
 8. Problem Solving Skills
 
 # Power BI Dashboard:
-Dashboard Image Link:
+Dashboard Image:
 ![image](https://github.com/Vinoth30/Airbnb-Analysis/assets/86898912/953897bc-203a-4136-a04c-f8f99bba7d0f)
 
 
